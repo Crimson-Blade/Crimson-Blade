@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React, Nodejs, Unity, DSA**
 
-- 📫 Reach me on **Discord!**
+- 📫 Reach me on **Twitter!**
 
 - 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/lance-barreto/)
 
