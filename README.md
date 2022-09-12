@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/lance-barreto/)
 
-- ⚡ Fun fact **I might be addicted to GluconD 😜**
+- ⚡ Fun fact **I might be addicted to Sting 😜**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
