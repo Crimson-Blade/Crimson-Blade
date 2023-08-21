@@ -5,15 +5,12 @@
 
 <p align="left"> <a href="https://twitter.com/lancebarreto5" target="blank"><img src="https://img.shields.io/twitter/follow/lancebarreto5?logo=twitter&style=for-the-badge" alt="lancebarreto5" /></a> </p>
 
-- 🔭 I’m currently working on [Yuru Camp](https://github.com/Crimson-Blade/yuru-camp)
-
+- 🔭 I’m currently working on my startup, [Upease!](https://www.linkedin.com/company/upease/)
 - 🌱 I’m currently learning **React, Nodejs, Unity, DSA**
 
-- 📫 Reach me on **Twitter!**
+- 📫 Reach me at **lance.barreto05@gmail.com**
 
 - 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/lance-barreto/)
-
-- ⚡ Fun fact **I might be addicted to Sting 😜**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
