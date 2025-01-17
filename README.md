@@ -5,8 +5,8 @@
 
 <p align="left"> <a href="https://twitter.com/lancebarreto5" target="blank"><img src="https://img.shields.io/twitter/follow/lancebarreto5?logo=twitter&style=for-the-badge" alt="lancebarreto5" /></a> </p>
 
-- 🔭 I’m currently working on my startup, [Upease!](https://www.linkedin.com/company/upease/)
-- 🌱 I’m currently learning **Advanced Algorithms**
+- 🔭 I’m currently pursuing an Internship as a Software Engineer
+- 🌱 I’m currently learning **Back End Development in Python!**
 
 - 📫 Reach me at **lance.barreto05@gmail.com**
 
