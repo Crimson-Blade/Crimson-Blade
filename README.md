@@ -27,9 +27,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=crimson-blade&show_icons=true&locale=en&layout=compact" alt="crimson-blade" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=crimson-blade&show_icons=true&locale=en" alt="crimson-blade" /></p>
-
-
-
-<p align="center">
-  <img src="https://github.com/Crimson-Blade/Crimson-Blade/blob/main/picture.png" width="500" />
-</p>
