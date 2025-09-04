@@ -1,12 +1,12 @@
 <h1 align="center">Hi ♦, I'm Lance Barreto</h1>
-<h3 align="center">A passionate full stack developer and Game developer from India. I am currently an undergraduate B.tech student at Manipal Institute of Technology</h3>
+<h3 align="center">A passionate full-stack developer from India. Alumni of Manipal Institute of Technology</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=crimson-blade&label=Profile%20views&color=0e75b6&style=flat" alt="crimson-blade" /> </p>
 
 <p align="left"> <a href="https://twitter.com/lancebarreto5" target="blank"><img src="https://img.shields.io/twitter/follow/lancebarreto5?logo=twitter&style=for-the-badge" alt="lancebarreto5" /></a> </p>
 
-- 🔭 I’m currently pursuing an Internship as a Software Engineer
-- 🌱 I’m currently learning **Back End Development in Python!**
+- 🔭 I’m currently working as a **Senior Program Executive - IT** at **TalentEase** 
+- 🌱 I’m currently learning **Back End Development in Django!**
 
 - 📫 Reach me at **lance.barreto05@gmail.com**
 
